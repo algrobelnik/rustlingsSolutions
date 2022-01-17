@@ -1,3 +1,5 @@
+Here you can find solutions to rustlings exercises, incase you are stuck on some problem
+
 # Exercise to Book Chapter mapping
 
 | Exercise               | Book Chapter |
